@@ -8,6 +8,9 @@
 # A Low-Rank Matching Attention Based Cross-Modal Feature Fusion Method for Conversational Emotion Recognition
 ![Supported Python versions](https://img.shields.io/badge/%20python-3.8-blue)
 ![Supported OS](https://img.shields.io/badge/%20Supported_OS-Windows-red)
+[![GitHub stars][stars-img]][stars-url]
+[![GitHub forks][fork-img]][fork-url]
+
 
 This is an official implementation of 'A Low-Rank Matching Attention Based Cross-Modal Feature Fusion Method for Conversational Emotion Recognition' :fire:. Any problems, please contact shouyuntao@stu.xjtu.edu.cn. Any other interesting papers or codes are welcome. If you find this repository useful to your research or work, it is really appreciated to star this repository :heart:.
 
