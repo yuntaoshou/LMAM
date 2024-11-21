@@ -35,7 +35,7 @@ Please cite our paper if you find our work useful for your research:
 
 ## Usage (Choose IEMOCAP-Six for Example)
 
-### Prerequisites
+### 🚀 Prerequisites
 - Python 3.8
 - CUDA 10.2
 - pytorch ==1.8.0
@@ -69,7 +69,7 @@ https://ffmpeg.org/download.html#build-linux ->  ../tools/ffmpeg-4.4.1-i686-stat
 
 
 
-### Datasets
+### 🚀 Datasets
 
 ~~~~shell
 # download IEMOCAP dataset and put it into ../emotion-data/IEMOCAP
