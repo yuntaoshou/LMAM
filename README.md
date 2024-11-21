@@ -1,28 +1,34 @@
-# LMAM
+[stars-img]: https://img.shields.io/github/stars/yuntaoshou/Graph-Diffusion-Models-A-Comprehensive-Survey-of-Methods-and-Applications?color=yellow
+[stars-url]: https://github.com/yuntaoshou/Graph-Diffusion-Models-A-Comprehensive-Survey-of-Methods-and-Applications/stargazers
+[fork-img]: https://img.shields.io/github/forks/yuntaoshou/Graph-Diffusion-Models-A-Comprehensive-Survey-of-Methods-and-Applications?color=lightblue&label=fork
+[fork-url]: https://github.com/yuntaoshou/Graph-Diffusion-Models-A-Comprehensive-Survey-of-Methods-and-Applications/network/members
+[AKGR-url]: https://github.com/yuntaoshou/Graph-Diffusion-Models-A-Comprehensive-Survey-of-Methods-and-Applications
+
+
+# A Low-Rank Matching Attention Based Cross-Modal Feature Fusion Method for Conversational Emotion Recognition
 ![Supported Python versions](https://img.shields.io/badge/%20python-3.8-blue)
 ![Supported OS](https://img.shields.io/badge/%20Supported_OS-Windows-red)
-
-
-# D2CHGNN: Dynamic Dual Contrastive Hyperbolic Hypergraph for Incomplete Multi-view Emotion Representation Learning
 
 Correspondence to: 
   - Yuntao Shou (shouyuntao@stu.xjtu.edu.cn)
 
 ## Paper
-[**GCNet: Graph Completion Network for Incomplete Multimodal Learning in Conversation**](https://arxiv.org/abs/2203.02177)<br>
-Zheng Lian, Lan Chen, Licai Sun, Bin Liu, Jianhua Tao<br>
-IEEE Transactions on pattern analysis and machine intelligence, 2022
+[**A Low-Rank Matching Attention Based Cross-Modal Feature Fusion Method for Conversational Emotion Recognition**](https://arxiv.org/abs/2306.17799)<br>
+Shou, Yuntao and Liu, Huan and Cao, Xiangyong and Meng, Deyu and Dong, Bo<br>
+IEEE Transactions on Affective Computing, 2024
 
 Please cite our paper if you find our work useful for your research:
 
 ```tex
-@article{lian2022gcnet,
-  title={GCNet: Graph Completion Network for Incomplete Multimodal Learning in Conversation},
-  author={Lian, Zheng and Chen, Lan and Sun, Licai and Liu, Bin and Tao, Jianhua},
-  journal={IEEE Transactions on pattern analysis and machine intelligence},
-  year={2022},
-  publisher={IEEE}
-}
+@ARTICLE{10753050,
+  author={Shou, Yuntao and Liu, Huan and Cao, Xiangyong and Meng, Deyu and Dong, Bo},
+  journal={IEEE Transactions on Affective Computing}, 
+  title={A Low-Rank Matching Attention Based Cross-Modal Feature Fusion Method for Conversational Emotion Recognition}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-13},
+  doi={10.1109/TAFFC.2024.3498443}}
 ```
 
 ## Usage (Choose IEMOCAP-Six for Example)
