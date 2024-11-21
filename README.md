@@ -1,16 +1,15 @@
-[stars-img]: https://img.shields.io/github/stars/yuntaoshou/Graph-Diffusion-Models-A-Comprehensive-Survey-of-Methods-and-Applications?color=yellow
-[stars-url]: https://github.com/yuntaoshou/Graph-Diffusion-Models-A-Comprehensive-Survey-of-Methods-and-Applications/stargazers
-[fork-img]: https://img.shields.io/github/forks/yuntaoshou/Graph-Diffusion-Models-A-Comprehensive-Survey-of-Methods-and-Applications?color=lightblue&label=fork
-[fork-url]: https://github.com/yuntaoshou/Graph-Diffusion-Models-A-Comprehensive-Survey-of-Methods-and-Applications/network/members
-[AKGR-url]: https://github.com/yuntaoshou/Graph-Diffusion-Models-A-Comprehensive-Survey-of-Methods-and-Applications
+[stars-img]: https://img.shields.io/github/stars/yuntaoshou/LMAM?color=yellow
+[stars-url]: https://github.com/yuntaoshou/LMAM/stargazers
+[fork-img]: https://img.shields.io/github/forks/yuntaoshou/LMAM?color=lightblue&label=fork
+[fork-url]: https://github.com/yuntaoshou/LMAM/network/members
+[AKGR-url]: https://github.com/yuntaoshou/LMAM
 
 
 # A Low-Rank Matching Attention Based Cross-Modal Feature Fusion Method for Conversational Emotion Recognition
 ![Supported Python versions](https://img.shields.io/badge/%20python-3.8-blue)
 ![Supported OS](https://img.shields.io/badge/%20Supported_OS-Windows-red)
 
-Correspondence to: 
-  - Yuntao Shou (shouyuntao@stu.xjtu.edu.cn)
+This is an official implementation of 'A Low-Rank Matching Attention Based Cross-Modal Feature Fusion Method for Conversational Emotion Recognition' :fire:. Any problems, please contact shouyuntao@stu.xjtu.edu.cn. Any other interesting papers or codes are welcome. If you find this repository useful to your research or work, it is really appreciated to star this repository :heart:.
 
 ## Paper
 [**A Low-Rank Matching Attention Based Cross-Modal Feature Fusion Method for Conversational Emotion Recognition**](https://arxiv.org/abs/2306.17799)<br>
@@ -100,3 +99,24 @@ IEMOCAP: https://drive.google.com/file/d/1Hn82-ZD0CNqXQtImd982YHHi-3gIX2G3/view?
 CMUMOSI: https://drive.google.com/file/d/1aJxArYfZsA-uLC0sOwIkjl_0ZWxiyPxj/view?usp=share_link  -> ./dataset/CMUMOSI/features
 CMUMOSEI:https://drive.google.com/file/d/1L6oDbtpFW2C4MwL5TQsEflY1WHjtv7L5/view?usp=share_link  -> ./dataset/CMUMOSEI/features
 ~~~~
+
+## CUMMOSI dataset download
+
+## 🚀 Installation
+
+The first step is to download the SDK:
+
+```bash
+git clone https://github.com/CMU-MultiComp-Lab/CMU-MultimodalSDK.git
+```
+
+Next, you need to install the SDK on your python enviroment.
+
+```bash
+cd CMU-MultimodalSDK
+pip install .
+```
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=yuntaoshou/LMAM&type=Date)](https://star-history.com/#yuntaoshou/LMAM&Date)
