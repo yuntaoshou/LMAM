@@ -10,11 +10,12 @@
 ![Supported OS](https://img.shields.io/badge/%20Supported_OS-Windows-red)
 [![GitHub stars][stars-img]][stars-url]
 [![GitHub forks][fork-img]][fork-url]
-![image](https://github.com/yuntaoshou/LMAM/blob/main/archi.png)
 <hr />
 
 > **Abstract:** *Conversational emotion recognition (CER) is an important research topic in human-computer interactions. Although recent advancements in transformer-based cross-modal fusion methods have shown promise in CER tasks, they tend to overlook the crucial intra-modal and inter-modal emotional interaction or suffer from high computational complexity. To address this, we introduce a novel and lightweight cross-modal feature fusion method called Low-Rank Matching Attention Method (LMAM). LMAM effectively captures contextual emotional semantic information in conversations while mitigating the quadratic complexity issue caused by the self-attention mechanism. Specifically, by setting a matching weight and calculating inter-modal features attention scores row by row, LMAM requires only one-third of the parameters of self-attention methods. We also employ the low-rank decomposition method on the weights to further reduce the number of parameters in LMAM. As a result, LMAM offers a lightweight model while avoiding overfitting problems caused by a large number of parameters. Moreover, LMAM is able to fully exploit the intra-modal emotional contextual information within each modality and integrates complementary emotional semantic information across modalities by computing and fusing similarities of intra-modal and inter-modal features simultaneously. Experimental results verify the superiority of LMAM compared with other popular cross-modal fusion methods on the premise of being more lightweight. Also, LMAM can be embedded into any existing state-of-the-art CER methods in a plug-and-play manner, and can be applied to other multi-modal recognition tasks, e.g., session recommendation and humour detection, demonstrating its remarkable generalization ability.*
 <hr />
+![image](https://github.com/yuntaoshou/LMAM/blob/main/archi.png)
+
 
 
 This is an official implementation of 'A Low-Rank Matching Attention Based Cross-Modal Feature Fusion Method for Conversational Emotion Recognition' :fire:. Any problems, please contact shouyuntao@stu.xjtu.edu.cn. Any other interesting papers or codes are welcome. If you find this repository useful to your research or work, it is really appreciated to star this repository :heart:.
