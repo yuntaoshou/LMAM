@@ -129,6 +129,11 @@ cd CMU-MultimodalSDK
 pip install .
 ```
 
+## Training
+```bash
+python train.py
+```
+
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=yuntaoshou/LMAM&type=Date)](https://star-history.com/#yuntaoshou/LMAM&Date)
