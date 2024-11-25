@@ -242,7 +242,7 @@ timer==0.2.2
 ToJyutping==0.2.3
 tokenizers==0.10.3
 toml==0.10.2
-torch==1.8.0
+torch==1.8.1
 torch-cluster @ file:///usr/share/miniconda/envs/test/conda-bld/pytorch-cluster_1631029083386/work
 torch-geometric @ file:///usr/share/miniconda/envs/test/conda-bld/pyg_1631775478996/work
 torch-scatter @ file:///usr/share/miniconda/envs/test/conda-bld/pytorch-scatter_1631018216157/work
