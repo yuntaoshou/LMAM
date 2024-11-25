@@ -10,6 +10,7 @@
 ![Supported OS](https://img.shields.io/badge/%20Supported_OS-Windows-red)
 [![GitHub stars][stars-img]][stars-url]
 [![GitHub forks][fork-img]][fork-url]
+![image](https://github.com/yuntaoshou/CBERL/blob/main/fig/%E7%89%B9%E5%BE%81%E8%9E%8D%E5%90%88%2B%E6%95%B0%E6%8D%AE%E4%B8%8D%E5%B9%B3%E8%A1%A1.jpg)
 
 
 This is an official implementation of 'A Low-Rank Matching Attention Based Cross-Modal Feature Fusion Method for Conversational Emotion Recognition' :fire:. Any problems, please contact shouyuntao@stu.xjtu.edu.cn. Any other interesting papers or codes are welcome. If you find this repository useful to your research or work, it is really appreciated to star this repository :heart:.
